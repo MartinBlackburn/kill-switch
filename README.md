@@ -22,4 +22,4 @@ Copy the safe file to somewhere you control.
 Rename the domain part to the domain the kill switch is on. This is to stop accidental taking down of multiple sites.  
 Replace the safe file location in the top of the kill-switch.js with your safe file location.  
 Then minify the kill-switch.js and hide it in any other JavaScript you have, so it is harder to remove.  
-Should you need to take the site down replace your safe file with one of the "kills" files if you need to.  
+Should you need to take the site down replace your safe file with one of the "kills" files, or some javascript of your own.  
