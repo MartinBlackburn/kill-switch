@@ -1,0 +1,1 @@
+window.location.replace("http://martinblackburn.co.uk");
